@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tuf/Documents/APPS/IDnity%20Tools%20v2/idnity-tools/app/tools/port-scanner/layout.tsx"],"sourcesContent":["import { Metadata } from 'next';\r\nimport React from 'react';\r\n\r\nexport const metadata: Metadata = {\r\n  title: 'Port Scanner',\r\n  description: 'Cek status port layanan server Anda secara real-time untuk memastikan FTP, HTTP, HTTPS, dan Database berjalan lancar.',\r\n};\r\n\r\nexport default function PortScannerLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n  return <>{children}</>;\r\n}"],"names":[],"mappings":";;;;;;;;AAGO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,kBAAkB,EACxC,QAAQ,EAGT;IACC,qBAAO;kBAAG;;AACZ"}}]
+}

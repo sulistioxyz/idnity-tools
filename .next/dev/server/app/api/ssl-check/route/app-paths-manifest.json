@@ -1,0 +1,3 @@
+{
+  "/api/ssl-check/route": "app/api/ssl-check/route.js"
+}

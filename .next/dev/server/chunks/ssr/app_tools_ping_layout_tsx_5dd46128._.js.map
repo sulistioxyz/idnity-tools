@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tuf/Documents/APPS/IDnity%20Tools%20v2/idnity-tools/app/tools/ping/layout.tsx"],"sourcesContent":["import { Metadata } from 'next';\r\nimport React from 'react';\r\n\r\nexport const metadata: Metadata = {\r\n  title: 'Ping Tool',\r\n  description: 'Uji latensi dan kecepatan respon server atau website Anda secara real-time dengan akurasi tinggi.',\r\n};\r\n\r\nexport default function PingLayout({ children }: { children: React.ReactNode }) {\r\n  return <>{children}</>;\r\n}"],"names":[],"mappings":";;;;;;;;AAGO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC5E,qBAAO;kBAAG;;AACZ"}}]
+}

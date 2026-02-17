@@ -1,0 +1,3 @@
+{
+  "/api/port-scanner/route": "app/api/port-scanner/route.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tuf/Documents/APPS/IDnity%20Tools%20v2/idnity-tools/app/tools/password-generator/page.tsx"],"sourcesContent":["[{\r\n\t\"resource\": \"/c:/Users/tuf/Documents/APPS/IDnity Tools v2/idnity-tools/app/tools/password-generator/page.tsx\",\r\n\t\"owner\": \"tailwindcss-intellisense\",\r\n\t\"code\": \"suggestCanonicalClasses\",\r\n\t\"severity\": 4,\r\n\t\"message\": \"The class `lg:min-h-[600px]` can be written as `lg:min-h-150`\",\r\n\t\"startLineNumber\": 116,\r\n\t\"startColumn\": 149,\r\n\t\"endLineNumber\": 116,\r\n\t\"endColumn\": 165,\r\n\t\"modelVersionId\": 4,\r\n\t\"origin\": \"extHost1\"\r\n}]"],"names":[],"mappings":"AAAA;IAAC;QACA,YAAY;QACZ,SAAS;QACT,QAAQ;QACR,YAAY;QACZ,WAAW;QACX,mBAAmB;QACnB,eAAe;QACf,iBAAiB;QACjB,aAAa;QACb,kBAAkB;QAClB,UAAU;IACX;CAAE"}}]
+}

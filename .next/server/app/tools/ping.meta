@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/tools/layout,_N_T_/tools/ping/layout,_N_T_/tools/ping/page,_N_T_/tools/ping"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/tools/ping/__PAGE__",
+    "/tools/ping",
+    "/tools",
+    "/_index",
+    "/_head"
+  ]
+}

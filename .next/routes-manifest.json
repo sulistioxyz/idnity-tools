@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/api/dns",
+      "regex": "^/api/dns(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/dns(?:/)?$"
+    },
+    {
+      "page": "/api/is-website-online",
+      "regex": "^/api/is\\-website\\-online(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/is\\-website\\-online(?:/)?$"
+    },
+    {
+      "page": "/api/my-ip",
+      "regex": "^/api/my\\-ip(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/my\\-ip(?:/)?$"
+    },
+    {
+      "page": "/api/ping",
+      "regex": "^/api/ping(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/ping(?:/)?$"
+    },
+    {
+      "page": "/api/port-scanner",
+      "regex": "^/api/port\\-scanner(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/port\\-scanner(?:/)?$"
+    },
+    {
+      "page": "/api/ssl-check",
+      "regex": "^/api/ssl\\-check(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/ssl\\-check(?:/)?$"
+    },
+    {
+      "page": "/api/whois",
+      "regex": "^/api/whois(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/whois(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/tools/dns-checker",
+      "regex": "^/tools/dns\\-checker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/dns\\-checker(?:/)?$"
+    },
+    {
+      "page": "/tools/ip-checker",
+      "regex": "^/tools/ip\\-checker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/ip\\-checker(?:/)?$"
+    },
+    {
+      "page": "/tools/is-website-online",
+      "regex": "^/tools/is\\-website\\-online(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/is\\-website\\-online(?:/)?$"
+    },
+    {
+      "page": "/tools/password-generator",
+      "regex": "^/tools/password\\-generator(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/password\\-generator(?:/)?$"
+    },
+    {
+      "page": "/tools/password-tester",
+      "regex": "^/tools/password\\-tester(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/password\\-tester(?:/)?$"
+    },
+    {
+      "page": "/tools/ping",
+      "regex": "^/tools/ping(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/ping(?:/)?$"
+    },
+    {
+      "page": "/tools/port-scanner",
+      "regex": "^/tools/port\\-scanner(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/port\\-scanner(?:/)?$"
+    },
+    {
+      "page": "/tools/ssl-checker",
+      "regex": "^/tools/ssl\\-checker(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/ssl\\-checker(?:/)?$"
+    },
+    {
+      "page": "/tools/whois-lookup",
+      "regex": "^/tools/whois\\-lookup(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/tools/whois\\-lookup(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

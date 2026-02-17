@@ -1,0 +1,22 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/dns/route": "app/api/dns/route.js",
+  "/api/is-website-online/route": "app/api/is-website-online/route.js",
+  "/api/my-ip/route": "app/api/my-ip/route.js",
+  "/api/ping/route": "app/api/ping/route.js",
+  "/api/port-scanner/route": "app/api/port-scanner/route.js",
+  "/api/ssl-check/route": "app/api/ssl-check/route.js",
+  "/api/whois/route": "app/api/whois/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/tools/dns-checker/page": "app/tools/dns-checker/page.js",
+  "/tools/ip-checker/page": "app/tools/ip-checker/page.js",
+  "/tools/is-website-online/page": "app/tools/is-website-online/page.js",
+  "/tools/password-generator/page": "app/tools/password-generator/page.js",
+  "/tools/password-tester/page": "app/tools/password-tester/page.js",
+  "/tools/ping/page": "app/tools/ping/page.js",
+  "/tools/port-scanner/page": "app/tools/port-scanner/page.js",
+  "/tools/ssl-checker/page": "app/tools/ssl-checker/page.js",
+  "/tools/whois-lookup/page": "app/tools/whois-lookup/page.js"
+}

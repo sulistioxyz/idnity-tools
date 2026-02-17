@@ -1,0 +1,22 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/dns/route": "/api/dns",
+  "/api/is-website-online/route": "/api/is-website-online",
+  "/api/my-ip/route": "/api/my-ip",
+  "/api/ping/route": "/api/ping",
+  "/api/port-scanner/route": "/api/port-scanner",
+  "/api/ssl-check/route": "/api/ssl-check",
+  "/api/whois/route": "/api/whois",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/tools/dns-checker/page": "/tools/dns-checker",
+  "/tools/ip-checker/page": "/tools/ip-checker",
+  "/tools/is-website-online/page": "/tools/is-website-online",
+  "/tools/password-generator/page": "/tools/password-generator",
+  "/tools/password-tester/page": "/tools/password-tester",
+  "/tools/ping/page": "/tools/ping",
+  "/tools/port-scanner/page": "/tools/port-scanner",
+  "/tools/ssl-checker/page": "/tools/ssl-checker",
+  "/tools/whois-lookup/page": "/tools/whois-lookup"
+}

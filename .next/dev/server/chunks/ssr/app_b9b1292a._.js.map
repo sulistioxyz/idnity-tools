@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tuf/Documents/APPS/IDnity%20Tools%20v2/idnity-tools/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 4320, height: 4320 }\n"],"names":[],"mappings":";;;;AAAA;;uCACe;IAAE,KAAA,mIAAG;IAAE,OAAO;IAAM,QAAQ;AAAK"}}]
+}

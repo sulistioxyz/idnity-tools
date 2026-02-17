@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/tuf/Documents/APPS/IDnity%20Tools%20v2/idnity-tools/app/tools/whois-lookup/layout.tsx"],"sourcesContent":["import { Metadata } from 'next';\r\n\r\nexport const metadata: Metadata = {\r\n  title: 'Whois Lookup',\r\n  description: 'Cek detail kepemilikan domain, tanggal kadaluarsa, dan informasi registrar secara akurat.',\r\n};\r\n\r\nexport default function WhoisLayout({ children }: { children: React.ReactNode }) {\r\n  return <>{children}</>;\r\n}"],"names":[],"mappings":";;;;;;;;AAEO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,YAAY,EAAE,QAAQ,EAAiC;IAC7E,qBAAO;kBAAG;;AACZ"}}]
+}
